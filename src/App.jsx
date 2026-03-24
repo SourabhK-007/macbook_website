@@ -1,4 +1,4 @@
-import React, {useRef} from 'react'
+import React from 'react'
 import Navbar from "./components/Navbar.jsx";
 import Hero from "./components/Hero.jsx";
 
