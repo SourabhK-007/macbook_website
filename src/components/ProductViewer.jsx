@@ -18,7 +18,7 @@ const ProductViewer = () => {
 
             <div className="controls">
                 <p className="info">MacbookPro 16" in Silver / Space Black {color}{scale}</p>
-                <div className="felx-center space-y-2.5 mt-5">
+                <div className="flex-center space-y-2.5 mt-5">
                     <div className="color-control">
                         <div
                             onClick={() => setColor('#adb5bd')}
